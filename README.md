@@ -38,5 +38,8 @@ sudo cp generator_toc* /usr/bin/
 
 ### Example
 ```shell
-generate_toc [PATH_DIR]
+generate_toc /home/shitana
+  Generate TOC in progress for /home/shitana/github/md_TOC_generator/README.md
+  TOC already exists for /home/shitana/github/git_tools/README.md
+
 ```
