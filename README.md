@@ -33,8 +33,8 @@ git clone git@github.com:shitana/md_TOC_generator.git
 ### Copy scripts to /usr/bin
 ```shell
 cd md_TOC_generator
-sudo cp generator_toc* /usr/bin/
-```
+sudo cp generate_toc* /usr/bin/
+``` 
 
 ### Example
 ```shell
